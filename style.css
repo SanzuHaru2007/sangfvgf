@@ -1,0 +1,131 @@
+body {
+	font-family: century gothic;
+	color: white;
+	margin: 0;
+}
+.conteiner1 {
+   position: relative;
+}
+.textpoverhkartinki {
+   position: absolute;
+   top: 200px;
+   text-align: center;
+   margin-left: 550px;
+   width: 100%;
+   width: 700px;
+   height: 50px;
+   font-size: 25px;
+}
+.text2 {
+	font-size: 15px;
+	height: 90px;
+}
+.buttonyesno {
+	cursor: pointer;
+	font-family: century gothic;
+	border-radius: 5px;
+	margin: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.Nastyatd1 { 
+	width: 300px; 
+	margin-left: 200px; 
+	box-shadow: 0px 1px 2px 0px rgba(250, 235, 215),
+            1px 2px 4px 0px rgba(250, 235, 215),
+            2px 4px 8px 0px rgba(250, 235, 215),
+            2px 4px 16px 0px rgba(250, 235, 215);
+    border-radius: 20px;
+} 
+.Nastyatd2 {
+	margin-left: 250px; 
+	font-size: 20px; 
+	color: black;
+}
+.Me {
+	width: 100%;
+	float: left;
+}
+.content {
+	background-color: #c5ca92;
+	border-radius: 20px 0 0 20px;
+	width: 65%;
+	float: right;
+	font-size: 25px;
+	color: white;
+	padding-left: 10px;
+	margin-top: 80px;
+}
+.imgMe {
+	margin-left: 10px;
+	margin-top: 40px;
+	width: 30%;
+	background-image: url(‘/img.jpg’);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 0% 100%;
+	border-radius: 20px;
+	box-shadow: 2px 20px 30px 1px #121601ad;
+}
+.Insana {
+	width: 100%;
+	float: left;
+}
+.content2 {
+	background-color: #bbac91;
+	border-radius: 0 20px 20px 0;
+	width: 67%;
+	float: left;
+	font-size: 25px;
+	color: white;
+	padding-left: 10px;
+	margin-top: 150px;
+	margin-bottom: 50px;
+}
+.imgInsana {
+	margin-left: 10px;
+	margin-right: 0;
+	margin-top: 40px;
+	width: 30%;
+	background-image: url(‘/img.jpg’);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 0% 100%;
+	border-radius: 20px;
+	box-shadow: 2px 20px 30px 1px #121601ad;
+}
+.Alina {
+	width: 100%;
+	float: left;
+}
+.content3 {
+	background-color: #78a4a5;
+	border-radius: 20px 0 0 20px;
+	width: 65%;
+	float: right;
+	font-size: 25px;
+	color: white;
+	padding-left: 10px;
+	margin-top: 250px;
+}
+.imgAlina {
+	margin-left: 10px;
+	margin-top: 40px;
+	width: 30%;
+	background-image: url(‘/img.jpg’);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 0% 100%;
+	border-radius: 20px;
+	box-shadow: 2px 30px 30px 1px #121601ad;
+}
+hr {
+margin: 20px 0;
+padding: 0;
+height: 10px;
+border: none;
+border-top: 1px solid #333;
+box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
